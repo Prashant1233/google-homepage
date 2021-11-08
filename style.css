@@ -144,8 +144,9 @@ input::placeholder {
     width:50%;
     text-align:right;
 }
-#f2 span {
+#f2 a {
     margin:5px;
+    color:gray;
 }
 #f2 span:hover {
     text-decoration: underline;
