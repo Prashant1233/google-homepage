@@ -152,6 +152,9 @@ section .footer .row{
     border-top: 1px solid rgba(0,0,0,0.05);
     color: #5f6368;
 }
+section .footer .row.row1{
+    border-bottom: 0px solid black;
+}
 section .footer .row.row2{
     display: flex;
     justify-content: space-between;
